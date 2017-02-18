@@ -8,7 +8,6 @@ PERIDOTの標準ペリフェラル集です。
 ----------------
 
 - Qsys 16.1以降
-- [PERIDOTボード](https://github.com/osafune/peridot)
 - MAX10、CycloneIV、CycloneVを搭載し、UARTまたはFT245/FT240X/FT232Hが接続されたボード
 
 
