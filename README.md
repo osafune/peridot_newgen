@@ -14,6 +14,7 @@ PERIDOT(ペリドット)プロジェクトとは、シンプル＆コンパク�
 
 更新情報
 --------
+- 2017/02/20 : ペリフェラルを[peridot_peripherals](https://github.com/osafune/peridot_peripherals)リポジトリに分離
 - 2017/02/18 : リポジトリ公開
 
 
