@@ -23,7 +23,7 @@ set sdrclk_nodes	[get_nodes {u0|altpll_component|auto_generated|pll1|clk[0]}]
 set sdrclk_ports	[get_ports SDRCLK_OUT]
 
 set sdrclk_period	10.0
-set sdrclk_iodelay	3.746
+set sdrclk_iodelay	3.426
 set sdram_tsu		1.5
 set sdram_th		1.0
 set sdram_tco_cl3	5.4
