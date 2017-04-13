@@ -3,7 +3,7 @@
 //
 //   DEGISN : S.OSAFUNE (J-7SYSTEM WORKS LIMITED)
 //   DATE   : 2017/03/01 -> 2017/03/01
-//   UPDATE : 
+//   MODIFY : 2017/04/13
 //
 // ===================================================================
 // *******************************************************************
@@ -51,6 +51,9 @@ module piccolo_blank_top(
 	// LED
 	output wire			LED
 );
+
+	///// Instance of Dual boot IP /////
+	dual_image_boot dual_image_boot_inst(.clk_clk(CLOCK_50),.reset_reset_n(RESET_N));
 
 
 
