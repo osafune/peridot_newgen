@@ -14,6 +14,7 @@ PERIDOT(ペリドット)プロジェクトとは、シンプル＆コンパク�
 
 更新情報
 --------
+- 2018/06/05 : [PERIDOT-Air](https://github.com/osafune/peridot_newgen/tree/master/board/air)のボード情報を追加
 - 2017/11/01 : PERIDOT Piccolo Quick manual(for English) released ->[pdf](https://github.com/osafune/peridot_newgen/blob/master/board/doc/peridot_piccolo_qm_r1_en.pdf)
 - 2017/08/17 : Vanilla Benchボードの簡易マニュアルを公開→[pdf](https://github.com/osafune/peridot_newgen/blob/master/board/doc/vanillabench_qm_r1.pdf)
 - 2017/04/07 : PERIDOT Piccoloの簡易マニュアルを公開→[pdf](https://github.com/osafune/peridot_newgen/blob/master/board/doc/peridot_piccolo_qm_r1.pdf)
